@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <files-path
+        name="record_images"
+        path="images/" />
+    <files-path
+        name="medication_images"
+        path="medications/" />
+    <cache-path
+        name="camera_cache"
+        path="camera/" />
+</paths>
